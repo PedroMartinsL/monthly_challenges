@@ -15,7 +15,7 @@ monthly_challenges = {
     'september': 'September Challenge: Start a journal!',
     'october': 'October Challenge: Volunteer for a local charity!',
     'november': 'November Challenge: Cook a new recipe!',
-    'december': 'December Challenge: Reflect on your year!'
+    'december': None
 }
 
 def index(request):
